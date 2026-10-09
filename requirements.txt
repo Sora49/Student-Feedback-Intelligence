@@ -1,0 +1,16 @@
+# Core data processing
+pandas
+numpy
+
+# NLP and machine learning
+scikit-learn
+sentence-transformers
+joblib
+
+# Visualisation
+matplotlib
+seaborn
+
+# Notebook environment
+ipython
+jupyter
